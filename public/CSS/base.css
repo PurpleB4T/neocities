@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 :root{
     --dark-purple: #3A043E; 
-    --lavender:#c091d4;
+    --lavender: #be9ffd;
     --rosy-brown: #CB9196;
     --rosier-brown:#CF9685; 
-    --buff:#D29B74;
-    --tan:#e6c9a8;
-    --blush:#D95272;
+    --buff:#e6b38e;
+    --tan:#f1d8bb;
+    --blush:#9e2985;
 
 }
 
@@ -81,5 +81,9 @@ h1{
     padding: 10px 40px;
     border: solid var(--rosy-brown) 2px;
     border-radius: 10px;
+    color: var(--blush);
+}
+
+h2{
     color: var(--blush);
 }
